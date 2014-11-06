@@ -81,6 +81,28 @@ Will return the `String` without the diacritics
 //=> 'وترى الكواكب في المجرة شرعا *** مثل الظباء كوارعا في جدول'
 ```
 
+##String#removeNonArabic()
+
+Will return the `String` without the Arabic letters
+
+### Example
+
+```js
+'hello مرحبا'.removeNonArabic()
+//=> 'مرحبا'
+```
+
+##String#removeArabic()
+
+Will return the `String` without the Arabic letters
+
+### Example
+
+```js
+'hello مرحبا'.removeTashkel()
+//=> 'hello'
+```
+
 ## License 
 
 (The MIT License)
