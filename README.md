@@ -94,7 +94,7 @@ Will return the `String` without the Arabic letters
 
 ##String#removeArabic()
 
-Will return the `String` without the Arabic letters
+Will return the `String` without the non-Arabic letters
 
 ### Example
 
