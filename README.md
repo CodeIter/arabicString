@@ -107,4 +107,4 @@ Will return the `String` without the non-Arabic letters
 
 MIT
 
-Copyright (c) 2012 [Ahmad Salman](https://github.com/ahmads "Ahmad Salman")
+Copyright &copy; 2012 - [Ahmad Salman](https://github.com/ahmads "Ahmad Salman")
