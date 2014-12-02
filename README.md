@@ -99,7 +99,7 @@ Will return the `String` without the non-Arabic letters
 ### Example
 
 ```js
-'hello مرحبا'.removeTashkel()
+'hello مرحبا'.removeArabic()
 //=> 'hello'
 ```
 
