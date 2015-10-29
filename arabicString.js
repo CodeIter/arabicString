@@ -160,3 +160,10 @@ String.prototype.removeArabic = function () {
 
 	return this.replace(/[\u0621-\u0652]/gm, '');
 }
+
+
+
+// function makeid()
+// {
+
+// } -- LATER
