@@ -162,8 +162,15 @@ String.prototype.removeArabic = function () {
 }
 
 
+/* -- LATER
+function makeid()
+{
 
-// function makeid()
-// {
+}
 
-// } -- LATER
+function slugify()
+{
+
+}
+
+-- LATER */
